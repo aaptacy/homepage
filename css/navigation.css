@@ -1,0 +1,32 @@
+.navigation {
+    background-color: teal;
+    margin: -25px 0;
+}
+
+.navigation__listItem {
+    list-style-type: none;
+    padding: 0 0 15px 0;
+}
+
+.navigation__link {
+    text-decoration: none;
+    font-size: larger;
+}
+
+.navigation__link:visited {
+    color: white;
+}
+
+.navigation__link:focus {
+    outline: 2px dotted currentColor;
+    background-color: #b7d8f0;
+}
+
+.navigation__link:hover {
+    background-color: rgb(200, 252, 235);
+    outline: none;
+}
+
+.navigation__link:active {
+    color: green;
+}

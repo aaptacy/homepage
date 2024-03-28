@@ -1,0 +1,75 @@
+.section {
+    padding: 20px;
+}
+
+.section--special {
+    color: white;
+    background-color: teal;
+    text-align: center;
+    margin: -20px 0;
+}
+
+.section__headerTwo {
+    color: hsl(233, 84%, 19%);
+}
+
+.section__myPicture {
+    max-width: 400px;
+    width: 100%;
+    border-radius: 10%;
+}
+
+.section__intro {
+    font-size: larger;
+}
+
+.section__buttonHobby {
+    cursor: pointer;
+    height: 50px;
+    background-color: hsla(153, 45%, 86%, 0.97);
+    border-color: #629d94;
+    border-radius: 10px;
+    box-shadow: 5px 0px 38px -1px #52d4c1;
+    font-weight: 1000;
+    color: #292626;
+}
+
+.section__buttonHobby:hover {
+    background-color: hsl(41, 75%, 47%);
+}
+
+.section__buttonHobby:active {
+    box-shadow: 5px 0px 38px -1px #1a2298;
+}
+
+.section__hobby {
+    padding: 15px;
+    background-color: hsla(153, 45%, 86%, 0.97);
+    text-shadow: 1px 2px 5px #b272c1;
+}
+
+.section__hobbyChange {
+    background-color: hsl(41, 75%, 47%);
+}
+
+.section__container {
+    overflow-x: auto;
+}
+
+
+.section__imageVertical {
+    border-radius: 5% 3%;
+    box-shadow: 5px 0px 38px -1px #5ACEBD;
+    max-width: 500px;
+    width: 100%;
+    background-color: #dbdbdb;
+    padding: 30px;
+}
+
+.section__imageHorizontal {
+    border-radius: 5% 3%;
+    box-shadow: 5px 0px 38px 5px #5ACEBD;
+    max-width: 800px;
+    width: 100%;
+    background-color: #dbdbdb;
+}

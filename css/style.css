@@ -1,0 +1,84 @@
+html {
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 20px;
+    text-align: justify;
+    line-height: 1.5;
+    background-color: #f6f7ff;
+    margin-top: -25px;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.button {
+    cursor: pointer;
+    margin: 40px;
+    height: 50px;
+    background-color: #84deff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 0px 38px -1px #52d4c1;
+    font-weight: 1000;
+    color: #394243;
+}
+
+.buttonWhite {
+    cursor: pointer;
+    margin: 40px;
+    height: 50px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 0px 38px -1px #52d4c1;
+    font-weight: 1000;
+    color: #394243;
+}
+
+
+.button:hover {
+    background-color: #20059a;
+    color: white;
+}
+
+.button:active {
+    box-shadow: 5px 0px 38px -1px #1a2298;
+}
+
+
+.blueBackground {
+    background-color: #ccfffc;
+}
+
+
+hr {
+    border: none;
+    border-top: 3px double #2a13af;
+    color: #333;
+    background-color: #8bb5d3;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr:after {
+    background: #fff;
+    content: '§';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
+
+.header {
+    text-align: center;
+    text-shadow: 1px 2px 5px #2d2fd56a;
+    color: hsl(233, 84%, 19%);
+    font-size: 30px;
+    font-family: sans-serif;
+}
