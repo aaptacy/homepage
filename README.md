@@ -9,4 +9,4 @@
 
 - el
 
-  [Moja strona]()
+  [Moja strona](https://aaptacy.github.io/homepage/)
