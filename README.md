@@ -9,4 +9,4 @@ See for yourself this very personal project of me - [Albert Aptacy](https://aapt
 
 ## Here is example!
 
-![Yosemite National Park, USA](https://postimg.cc/T5RfkS6F)
+[Yosemite National Park, USA](https://postimg.cc/T5RfkS6F)
